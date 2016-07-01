@@ -1,4 +1,4 @@
-# React Content Injector
+# React Context Injector
 
 Plain Dependency Injector as Context for React inspired by [this post](http://jaysoo.ca/2015/06/09/react-contexts-and-dependency-injection/)
 
