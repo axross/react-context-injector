@@ -2,6 +2,10 @@
 
 Plain Dependency Injector as Context for React inspired by [this post](http://jaysoo.ca/2015/06/09/react-contexts-and-dependency-injection/)
 
+[![npm version](https://badge.fury.io/js/react-context-injector.svg)](http://badge.fury.io/js/react-context-injector)
+[![Circle CI](https://circleci.com/gh/axross/react-context-injector/tree/master.svg?style=svg&circle-token=8e2d20828651ee1065f49317c1708f4de0dbec71)](https://circleci.com/gh/axross/react-context-injector/tree/master)
+[![license](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
+
 ## Installation
 
 ```
