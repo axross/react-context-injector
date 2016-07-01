@@ -1,4 +1,4 @@
-# react-context-injector
+# React Content Injector
 
 Plain Dependency Injector as Context for React inspired by [this post](http://jaysoo.ca/2015/06/09/react-contexts-and-dependency-injection/)
 
@@ -8,8 +8,10 @@ Plain Dependency Injector as Context for React inspired by [this post](http://ja
 
 ## Installation
 
+React Content Injector works with [React](https://facebook.github.io/react/) >= v15.0.
+
 ```
-$ npm install --save react-context-injector
+$ npm install --save react react-context-injector
 ```
 
 ```javascript
