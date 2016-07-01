@@ -1,6 +1,6 @@
 {
   "name": "react-context-injector",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Plain Dependency Injector as Context for React",
   "main": "transpiled/createContextInjector.js",
   "scripts": {
