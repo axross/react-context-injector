@@ -2,6 +2,10 @@
 import React from 'react';
 
 const createContextInjector = (diContainer: Object): Function => {
+  if (Object.prototype.toString.call(diContainer) !== '[object Object]') {
+    throw TypeError('diContainer of createContextInjector(diContainer) must be a Plain Object.');
+  }
+
   const childContextTypes = {};
   const childContext = {};
 
